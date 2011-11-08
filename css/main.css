@@ -94,8 +94,12 @@ h2{
 	margin-bottom:5px;
 }
 
-h3{
+.urgent{
 	color:#DE0920;
+}
+
+
+h3{
 	padding:8px 0px 5px 12px;
 	font:30px "TF2 Primary",Helvetica,Arial,sans-serif;
 }
