@@ -1,3 +1,0 @@
-Options +FollowSymlinks
-RewriteEngine on
-RewriteRule ^/?$ get_users.php [NC]
